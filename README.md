@@ -26,3 +26,10 @@ Membuat aplikasi android dengan ketentuan yang sudah terpenuhi sebagai berikut:
   <li>Menerapkan menu : navigation drawer atau bottom navigation atau ActionBar menu.</li>
 
 </ul>
+
+# Demo Aplikasi (khusus android)
+
+Untuk melihat aplikasi silahkan di download dan di install. KLIK_DISINI [https://drive.google.com/file/d/13JtUtQCw2K1oQ_861bEMyTUDpcyvbB6d/view?usp=sharing]
+
+
+
