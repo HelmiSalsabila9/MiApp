@@ -29,7 +29,7 @@ Membuat aplikasi android dengan ketentuan yang sudah terpenuhi sebagai berikut:
 
 # Demo Aplikasi (khusus android)
 
-Untuk melihat aplikasi silahkan di download dan di install. [KLIK DISINI](https://drive.google.com/file/d/13JtUtQCw2K1oQ_861bEMyTUDpcyvbB6d/view?usp=sharing)
+Untuk melihat aplikasi dan menggunakannya silahkan di download dan di install. [KLIK DISINI](https://drive.google.com/file/d/13JtUtQCw2K1oQ_861bEMyTUDpcyvbB6d/view?usp=sharing)
 
 # About
 
