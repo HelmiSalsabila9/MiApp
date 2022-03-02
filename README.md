@@ -1,5 +1,7 @@
 # MiApp
-Membuat aplikasi android dengna ketentuan sebagai berikut:
+Membuat aplikasi android dengan ketentuan sebagai berikut:
+
+# Ouput
 
 <ul>
 
