@@ -29,7 +29,14 @@ Membuat aplikasi android dengan ketentuan yang sudah terpenuhi sebagai berikut:
 
 # Demo Aplikasi (khusus android)
 
-Untuk melihat aplikasi silahkan di download dan di install. KLIK_DISINI [https://drive.google.com/file/d/13JtUtQCw2K1oQ_861bEMyTUDpcyvbB6d/view?usp=sharing]
+Untuk melihat aplikasi silahkan di download dan di install. [KLIK DISINI](https://drive.google.com/file/d/13JtUtQCw2K1oQ_861bEMyTUDpcyvbB6d/view?usp=sharing)
 
+# About
+
+[Instagram](https://www.instagram.com/hels.ae/)
+
+[LinkIn](https://www.linkedin.com/in/helmisalsabila9/)
+
+[Youtube](https://www.youtube.com/channel/UCV3nFQJw1bf03Ds9Pf5JcxA)
 
 
