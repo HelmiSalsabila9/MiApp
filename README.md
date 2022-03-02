@@ -1,5 +1,5 @@
 # MiApp
-Membuat aplikasi android dengan ketentuan sebagai berikut:
+Membuat aplikasi android dengan ketentuan yang sudah terpenuhi sebagai berikut:
 
 # Ouput
 
