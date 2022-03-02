@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ApiDagingActivity">
+
+    <TextView
+        android:id="@+id/dg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Nasional Commodity Price"
+        android:fontFamily="@font/poppins_semibold"
+        android:textSize="20sp"
+        android:textAlignment="center"
+        android:textColor="@color/black"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Daging Ayam"
+        android:layout_below="@id/dg"
+        android:fontFamily="@font/poppins_semibold"
+        android:textSize="16sp"
+        android:textAlignment="center"
+        android:textColor="@color/black"/>
+
+    <ProgressBar
+        android:id="@+id/progress_bar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerViewDaging"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="60dp"/>
+
+</RelativeLayout>

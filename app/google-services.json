@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "26350562109",
+    "project_id": "crud-pemrograman-iv-uas-86712",
+    "storage_bucket": "crud-pemrograman-iv-uas-86712.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26350562109:android:4ac8c50672a0608b653354",
+        "android_client_info": {
+          "package_name": "com.hels.miapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "26350562109-9f9ugj8du3au3nhjc0j5hqpcp6p4jmg1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hels.miapp",
+            "certificate_hash": "3a8735a59af02ed39f02fc09b30f8f668d4037e3"
+          }
+        },
+        {
+          "client_id": "26350562109-bsq22vhd93poqcp4tihlal7k5sagkiok.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQshto8QHvD-Ddd7hHYLRjmWy8QmuBJjM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "26350562109-bsq22vhd93poqcp4tihlal7k5sagkiok.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
